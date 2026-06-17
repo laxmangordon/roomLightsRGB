@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "breadboard_breakouts") (type "KiCad") (uri "${KIPRJMOD}/breadboard_breakouts.pretty") (options "") (descr ""))
+)

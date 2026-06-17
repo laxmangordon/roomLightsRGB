@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "breadboard_breakouts") (type "KiCad") (uri "C:/Users/harle/Documents/roomLightsRGB/PCBs/breadboard_breakouts.kicad_sym") (options "") (descr ""))
+)
